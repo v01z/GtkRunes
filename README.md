@@ -1,5 +1,7 @@
 # GtkRunes
+
 A simple app that will help you to study Elder Futhark.
 
-ATTENTION: The application is not ready yet and work is in progress. Be patient :)
+Clone repo and issue 'make'. There will be an executable file named 'GtkRunes', just run it.
+
 
